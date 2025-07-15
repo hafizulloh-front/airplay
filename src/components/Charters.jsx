@@ -3,10 +3,10 @@ import React from 'react';
 
 const Charters = () => {
   const planes = [
-    { image: './public/img/samalyot4.png', name: 'Piaggio P.180 Avanti' },
-    { image: './public/img/samalyot5.png', name: 'Pilatus PC-12' },
-    { image: './public/img/samalyot6.png', name: 'Piper Pa27 Aztec' },
-    { image: './public/img/samalyot7.png', name: 'Beechcraft King Air' },
+    { image: './img/samalyot4.png', name: 'Piaggio P.180 Avanti' },
+    { image: './img/samalyot5.png', name: 'Pilatus PC-12' },
+    { image: './img/samalyot6.png', name: 'Piper Pa27 Aztec' },
+    { image: './img/samalyot7.png', name: 'Beechcraft King Air' },
   ];
 
   return (

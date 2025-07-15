@@ -3,7 +3,7 @@ import React from "react";
 const Foter = () => {
   return (
     <div className="foter">
-      <img className="logoo" src="./public/img/logo2.png" alt="" />
+      <img className="logoo" src="./img/logo2.png" alt="" />
       <div className="big-box">
         <ul>
           <li>services</li>

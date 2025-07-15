@@ -6,7 +6,7 @@ const Orqafon = () => {
       <div className="navbar">
         <div className="container navbar-content">
           <span>
-            <img src="./public/img/logo.png" alt="" />
+            <img src="./img/logo.png" alt="" />
           </span>
           <ul>
             <li>

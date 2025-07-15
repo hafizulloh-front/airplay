@@ -20,13 +20,13 @@ const Jetfor = () => {
       <h1 className="text-center mb-5">Private Jet For Business & Leisure Purposes</h1>
 
       <SamalyotCard
-        image="/img/samalyot1.png"
+        image="./img/samalyot1.png"
         title="Private Jet Charter"
         text="It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors"
       />
 
       <SamalyotCard
-        image="/img/samalyot2.png"
+        image="./img/samalyot2.png"
         title="Business Jet Charter"
         text="It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors"
         reverse={true}

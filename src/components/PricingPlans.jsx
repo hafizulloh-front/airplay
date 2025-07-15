@@ -35,7 +35,7 @@ const PricingPlans = () => {
         'Priority fleet access Yes',
         'Guaranteed fleet access Yes',
       ],
-    },
+    },  
   ];
 
   return (
