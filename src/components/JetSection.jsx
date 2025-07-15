@@ -45,7 +45,7 @@ const JetSection = () => {
 
         
         <div className="col-12 col-md-3 mb-4 mb-md-0 d-flex justify-content-center">
-          <img src="./public/img/samlyot3.png" alt="" className="plane-img" />
+          <img src="./img/samlyot3.png" alt="" className="plane-img" />
         </div>
 
      
